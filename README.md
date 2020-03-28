@@ -21,3 +21,6 @@ Tutorial: [How to create a Realtime Facebook Messenger Chatbot with Node.js and 
 ## Licence
 
 [MIT](https://opensource.org/licenses/MIT)
+
+
+Create page access token and fill in variables.env
